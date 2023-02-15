@@ -1,2 +1,2 @@
 # OpenGLTutorial
-Some examples to practice modern OpenGL with GLEW
+Some examples to practice modern OpenGL with GLFW
